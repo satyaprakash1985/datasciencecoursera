@@ -1,0 +1,38 @@
+BMI slidify
+========================================================
+author: Satya Prakash
+date: 28 july
+
+Introduction
+========================================================
+
+- The body mass index (BMI), or Quetelet index, is a measure of relative weight based on an individual's mass and height.
+- it takes weigh in kg
+- it takes hight in meters
+
+========================================================
+
+- it gives BMI as output
+- Bmi tracking is very important for health
+- server.r and Ui.r is used 
+- input is replicated
+
+Calculation
+========================================================
+
+- For the mathematicians you would divide your weight in kg by your height in metres squared.
+- For example someone who weighed 68kg, and was 1.68m tall
+- 1.68 x 1.68 = 2.82
+- 68 divided by 2.82 = 24
+- The following website will calculate your BMI for you.
+http://www.brianmac.co.uk/idealw.htm
+
+========================================================
+
+- If your BMI is 25.0-29.9 you are considered to be overweight.
+- This means that your weight exceeds the normal standard based on height and frame size.
+- If your BMI is above 30 your are considered to be obese.
+- This means that you have a high % of body fat.
+
+
+
